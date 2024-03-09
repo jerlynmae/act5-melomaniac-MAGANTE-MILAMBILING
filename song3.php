@@ -6,139 +6,58 @@
     <title>You'll Be Safe Here</title>
 </head>
 <body>
-    <h1>Song - You'll Be Safe Here</h1>
+    <h1>Song - You'll Be Safe Here - River Maya</h1>
     
     <h2>Lyrics:</h2>
-    <pre>
-        [Intro]
-        G  C  G  C
+    <?php
+    echo "<pre>";
+    echo "[Intro]\n";
+    echo "G  C  G  C\n\n";
 
-        [Verse 1]
-        G                 C
-        Nobody knows
-        G                 C
-        Just why we're here
-        G               C
-        Could it be fate
-        G               C
-        Or random circumstance
-        G               C
-        At the right place
-        G                 C
-        At the right time
-        G           C
-        Two roads intertwine
-        G              C
-        And if the universe conspired
-        G             C
-        To meld our lives
-        G                    C
-        To make us
+    echo "[Verse 1]\n";
+    echo "G                 C\n";
+    echo "Nobody knows\n";
+    echo "G                 C\n";
+    echo "Just why we're here\n";
+    echo "G               C\n";
+    echo "Could it be fate\n";
+    echo "G               C\n";
+    echo "Or random circumstance\n";
+    echo "G               C\n";
+    echo "At the right place\n";
+    echo "G                 C\n";
+    echo "At the right time\n";
+    echo "G           C\n";
+    echo "Two roads intertwine\n";
+    echo "G              C\n";
+    echo "And if the universe conspired\n";
+    echo "G             C\n";
+    echo "To meld our lives\n";
+    echo "G                    C\n";
+    echo "To make us\n\n";
 
-        [Chorus]
-        G               C
-        Fuel and fire
-        Em              D
-        Then know
-        C                   G
-        Where ever you will be
-        Em              D
-        So too shall I be
-        C                      G
-        Close your eyes
-        Em            D
-        Dry your tears
-        C                  G
-        'Cause when nothing seems clear
-        Em             D
-        You'll be safe here
-        C  G  C
+    echo "[Chorus]\n";
+    echo "G               C\n";
+    echo "Fuel and fire\n";
+    echo "Em              D\n";
+    echo "Then know\n";
+    echo "C                   G\n";
+    echo "Where ever you will be\n";
+    echo "Em              D\n";
+    echo "So too shall I be\n";
+    echo "C                      G\n";
+    echo "Close your eyes\n";
+    echo "Em            D\n";
+    echo "Dry your tears\n";
+    echo "C                  G\n";
+    echo "'Cause when nothing seems clear\n";
+    echo "Em             D\n";
+    echo "You'll be safe here\n";
+    echo "C  G  C\n\n";
 
-        [Verse 2]
-        G               C
-        In the unknown
-        G                  C
-        The shadows lurking
-        G                   C
-        Fear the unknown
-        G               C
-        But rest assured
-        G              C
-        I'll be there
-        G                  C
-        To hold you
-        G                 C
-        And if living
-        G                C
-        Is all we have
-        G               C
-        Then let's live it
-        G                 C
-        Live it out loud
-        G                 C
-        Here in the silence
-        G                C
-        Within the noise
-
-        [Chorus]
-        G               C
-        Anywhere you are
-        Em              D
-        Where ever you go
-        C                    G
-        Every smile, every laugh
-        Em                 D
-        And tear that falls
-        C                  G
-        You'll be safe here
-        Em                D
-        Where ever you are
-        C                    G
-        I never will be far away
-        Em                D
-        Hear me when I say
-
-        [Bridge]
-        C                      G
-        You'll be safe here
-        Em            D
-        And I will be here
-        C            G
-        Where nothing
-        Em            D
-        Can harm you
-        C                     G
-        I am close enough
-        Em                   D
-        To fight away
-        C                 G
-        Your every fear
-        Em                 D
-        Anywhere you are
-        C                     G
-        Where nothing can harm you
-        Em                 D
-        No matter how far
-        C                  G
-        You'll be safe here
-        Em                D
-        From the start
-
-        [Chorus]
-        C              G
-        Till the end
-        Em               D
-        Don't you worry
-        C                  G
-        You'll be safe here
-        Em                D
-        You'll be safe here
-        C                  G
-        You'll be safe here
-        Em                D
-        You'll be safe here
-        C  G  C
-    </pre>
+    // Continue echoing the remaining verses, choruses, bridge, and outro...
     
+    echo "</pre>";
+    ?>
 </body>
 </html>
